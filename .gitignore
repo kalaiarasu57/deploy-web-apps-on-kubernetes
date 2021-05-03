@@ -1,0 +1,9 @@
+# Code editors
+*~
+*.swo
+.*.swp
+\#*#
+.#*
+
+# OS-specifics
+.DS_Store
